@@ -1,4 +1,4 @@
 
 pandas==0.23.4
-python-matplotlib
+
 Pillow==2.1.0
