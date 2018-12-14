@@ -1,7 +1,7 @@
 # import libraries
-from tkinter import *
+from Tkinter import *
 import pandas as pd
-import tkinter.messagebox as mb
+import Tkinter.messagebox as mb
 import numpy as np
 import matplotlib.pyplot as plt
 # import libraries
