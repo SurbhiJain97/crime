@@ -1,13 +1,13 @@
 # import libraries
-from Tkinter import *
-from Tkinter import tk
+from tkinter import *
+from tkinter import tk
 import pandas as pd
 from PIL import ImageTk
-import Tkinter.messagebox as mb
+import tkinter.messagebox as mb
 import matplotlib.style as style
 import functions
 # import libraries
-matplotlib.use('Agg')
+
 style.use("ggplot")
 
 # data-frame + states,year,cause,age-groups list
