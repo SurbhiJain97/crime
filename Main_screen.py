@@ -3,7 +3,7 @@ from Tkinter import *
 from Tkinter import ttk
 import pandas as pd
 from PIL import ImageTk
-import tkinter.messagebox as mb
+import Tkinter.messagebox as mb
 import matplotlib.style as style
 import functions
 # import libraries
