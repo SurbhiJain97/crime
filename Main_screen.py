@@ -7,7 +7,7 @@ import Tkinter.messagebox as mb
 import matplotlib.style as style
 import functions
 # import libraries
-
+matplotlib.use('Agg')
 style.use("ggplot")
 
 # data-frame + states,year,cause,age-groups list
