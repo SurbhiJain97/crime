@@ -1,6 +1,6 @@
 # import libraries
 from Tkinter import *
-from Tkinter import ttk
+from Tkinter import tk
 import pandas as pd
 from PIL import ImageTk
 import Tkinter.messagebox as mb
